@@ -15,6 +15,14 @@ Should the canonical R2 classification of **news and current events** be retaine
 
 The process begins without a predetermined R2 or R3 outcome.
 
+## Submit a response
+
+The public written-submission channel is:
+
+**GitHub Issue #1:** https://github.com/rjblanchette/BG-AIS-OQ6-Public-Consultation/issues/1
+
+Please read `CONSULTATION-PACKET.md` and `SUBMISSION-INSTRUCTIONS.md` before submitting. Add your submission as a comment on Issue #1.
+
 ## Authority boundary
 
 This public repository is **not the canonical BG-AIS governance repository and does not create governance authority**. It exists to make the consultation materials publicly accessible and to receive authentic human/stakeholder submissions.
@@ -33,8 +41,7 @@ The controlling governance record remains in the private canonical BG-AIS reposi
 - `CONSULTATION-PACKET.md` — evidence brief, counterevidence, and six deliberation questions.
 - `SUBMISSION-INSTRUCTIONS.md` — how to participate and what information to provide.
 - `PUBLIC-PARTICIPATION-REGISTER.md` — public-facing record of received participation and process status.
-
-A dedicated GitHub issue is used as the open written-submission channel. Its link is recorded in `SUBMISSION-INSTRUCTIONS.md` and this README once created.
+- Issue #1 — open written-submission channel.
 
 ## Participation
 
